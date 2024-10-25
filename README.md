@@ -8,5 +8,5 @@ I am interested in soundscape ecology in kelp forest ecosystems.
 Recorded soundscapes inside and outside marine protected areas at 4 sites
 - Santa Cruz Cavern
 - Santa Cruz Coche
-- Ana Lit
-- Ana Middle Isle
+- Anacapa Lighthouse
+- Anacapa Middle Isle
